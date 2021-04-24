@@ -3,7 +3,7 @@
 <!--
 **VivekR29/VivekR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ... Spring Boot
 - 🌱 I’m currently learning ... Microservices
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... linkedin.com/in/vivek-rajpara/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Half Finnnniiissh
--->
+
