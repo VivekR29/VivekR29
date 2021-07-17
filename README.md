@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning **Microservices**
 - 👯 I’m looking to collaborate on **Java Full Stack Project**
 - 🤔 I’m looking for help with **Azure/AWS**
-- 💬 Ask me about anything **Tech related **
+- 💬 Ask me about anything **Tech related**
 - 📫 How to reach me: **[linkedin @vivek-rajpara](https://www.linkedin.com/in/vivek-rajpara/)**
 - 😄 Pronouns: **He/Him**
 
