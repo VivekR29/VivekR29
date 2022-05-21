@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Spring Boot**
-- 🌱 I’m currently learning **Microservices**
+- 🔭 I’m currently working on **Microservices**
+- 🌱 I’m currently learning **AWS**
 - 👯 I’m looking to collaborate on **Java Full Stack Project**
 - 🤔 I’m looking for help with **Azure/AWS**
 - 💬 Ask me about anything **Tech related**
