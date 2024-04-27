@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Microservices**
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on **SpringBoot, Spring Batch, Microservices**
+- 🌱 I’m currently learning **Cloud, DevOps, AI**
 - 👯 I’m looking to collaborate on **Java Full Stack Project**
-- 🤔 I’m looking for help with **Azure/AWS**
+- 🤔 I’m looking for help with **AWS/Azure, Spring AI**
 - 💬 Ask me about anything **Tech related**
 - 📫 How to reach me: **[linkedin @vivek-rajpara](https://www.linkedin.com/in/vivek-rajpara/)**
 - 😄 Pronouns: **He/Him**
