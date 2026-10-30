@@ -8,7 +8,7 @@ I am a passionate **Software Engineer** based in Mumbai, India, specializing in 
 - 🔭 **Current Focus:** Java Spring Boot Microservices
 - 🌱 **Learning:** Integrating Generative AI with **Spring AI**
 - 👯 **Collaboration:** Looking to contribute to Java Full Stack & Microservices projects
-- 📫 **Reach Me:** linkedin @vivek-rajpara](https://www.linkedin.com/in/vivek-rajpara/)
+- 📫 **Reach Me:** [linkedin @vivek-rajpara](https://www.linkedin.com/in/vivek-rajpara/)
 - ⚡ **Fun Fact:** I believe learning is best when it's fun and engaging!
 
 ---
